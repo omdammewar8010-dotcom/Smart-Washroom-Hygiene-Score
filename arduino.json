@@ -1,0 +1,5 @@
+{
+  "board": "esp32:esp32:esp32",
+  "sketch": "washroom_edge_fireware.ino",
+  "configuration": "Default"
+}
